@@ -1,0 +1,9 @@
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\bin\Debug\netcoreapp3.1\Project.Domain.deps.json
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\bin\Debug\netcoreapp3.1\Project.Domain.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\bin\Debug\netcoreapp3.1\Project.Domain.pdb
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\obj\Debug\netcoreapp3.1\Project.Domain.csprojAssemblyReference.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\obj\Debug\netcoreapp3.1\Project.Domain.AssemblyInfoInputs.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\obj\Debug\netcoreapp3.1\Project.Domain.AssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\obj\Debug\netcoreapp3.1\Project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\obj\Debug\netcoreapp3.1\Project.Domain.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Domain\obj\Debug\netcoreapp3.1\Project.Domain.pdb
