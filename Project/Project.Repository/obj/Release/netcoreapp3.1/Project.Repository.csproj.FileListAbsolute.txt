@@ -1,0 +1,15 @@
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\bin\Release\netcoreapp3.1\Project.Repository.deps.json
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\bin\Release\netcoreapp3.1\Project.Repository.runtimeconfig.json
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\bin\Release\netcoreapp3.1\Project.Repository.runtimeconfig.dev.json
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\bin\Release\netcoreapp3.1\Project.Repository.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\bin\Release\netcoreapp3.1\Project.Repository.pdb
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\bin\Release\netcoreapp3.1\Project.Domain.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\bin\Release\netcoreapp3.1\Project.Domain.pdb
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.csprojAssemblyReference.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.AssemblyInfoInputs.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.AssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.csproj.CoreCompileInputs.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.csproj.CopyComplete
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.pdb
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.Repository\obj\Release\netcoreapp3.1\Project.Repository.genruntimeconfig.cache

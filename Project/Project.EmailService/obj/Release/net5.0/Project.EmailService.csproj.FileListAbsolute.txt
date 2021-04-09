@@ -1,0 +1,12 @@
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\bin\Release\net5.0\Project.EmailService.deps.json
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\bin\Release\net5.0\Project.EmailService.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\bin\Release\net5.0\ref\Project.EmailService.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\bin\Release\net5.0\Project.EmailService.pdb
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\Project.EmailService.csprojAssemblyReference.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\Project.EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\Project.EmailService.AssemblyInfoInputs.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\Project.EmailService.AssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\Project.EmailService.csproj.CoreCompileInputs.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\Project.EmailService.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\ref\Project.EmailService.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.EmailService\obj\Release\net5.0\Project.EmailService.pdb

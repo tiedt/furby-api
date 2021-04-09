@@ -1,12 +1,8 @@
 ﻿using AutoMapper;
-using AutoMapper.Configuration;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Project.Domain.Identity;
 using Project.Repository;
-using Project.WebApi.Dtos;
 using Project.WebAPI.Dtos;
 using System.Threading.Tasks;
 
@@ -44,11 +40,11 @@ namespace Project.WebAPI.Controllers
         }
 
         [HttpPost("AddNewAdmin")]
-        public async Task<IActionResult> Register(string userEmail)
+        public async Task<IActionResult> Register(string username)
         {
             try
             {
-                var userResult = _repo.GetUserByEmail(userEmail);
+                var userResult = _repo.GetUserByUserName(username);
                 userResult.Result.isAdmin = true;
 
                 _repo.Update(userResult.Result);
@@ -67,14 +63,14 @@ namespace Project.WebAPI.Controllers
         }
 
         [HttpDelete("DeleteAdmin")]
-        public async Task<IActionResult> Delete(string adminEmail)
+        public async Task<IActionResult> Delete(string username)
         {
             try
             {
-                var userResult = _repo.GetUserByEmail(adminEmail);
+                var userResult = _repo.GetUserByUserName(username);
                 if (userResult == null) return NotFound();
-
-                _repo.Delete(userResult.Result);
+                userResult.Result.isAdmin = false;
+                _repo.Update(userResult.Result);
 
                 if (await _repo.SaveChangesAsync())
                 {

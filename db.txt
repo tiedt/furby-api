@@ -7,3 +7,8 @@ dotnet ef --startup-project ../Project.WebApi database update
 
 furbyapi@gmail.com
 furb2021
+
+azure db
+nome do servidor: furby-server.database.windows.net
+logon: furby
+senha: Server2021

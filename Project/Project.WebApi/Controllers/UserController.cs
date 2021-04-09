@@ -74,7 +74,7 @@ namespace Project.WebAPI.Controllers
 
                 var user = await _userManager.FindByEmailAsync(forgotPasswordModel.Email);
                 if (user == null)
-                    return BadRequest("Usuário Não Encontrado");
+                    return NotFound("User Not Found");
 
                 var token = await _userManager.GeneratePasswordResetTokenAsync(user);
                 var callback = Url.Action(nameof(ResetPassword), "Account", new { token, email = user.Email }, Request.Scheme);
@@ -84,7 +84,7 @@ namespace Project.WebAPI.Controllers
                 var message = new Message(new string[] { user.Email }, "Reset Password - FURBY", bodyEmail, null);
                 await _emailSender.SendEmailAsync(message);
 
-                return Ok("E-mail Enviado com Sucesso");
+                return Ok("E-mmail successfully sent");
             }
             catch (Exception e)
             {
@@ -110,12 +110,11 @@ namespace Project.WebAPI.Controllers
                     var token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     var confirmationLink = Url.Action(nameof(ConfirmEmail), "Account", new { token, email = user.Email }, Request.Scheme);
                     var bodyEmail = string.Format("Olá {0}. <br>" +
-    "                           \n Você se cadastrou no FURBY, por favor <a href='{1}'>clique aqui</a> para confirmar a sua conta. <br>" +
-    "                           \n Caso não tenha solicitado por favor desconsiderar este e-mail.", user.FullName, confirmationLink);
+                        "\n Você se cadastrou no FURBY, por favor <a href='{1}'>clique aqui</a> para confirmar a sua conta. <br>" +
+                        "\n Caso não tenha solicitado por favor desconsiderar este e-mail.", user.FullName, confirmationLink);
                     var message = new Message(new string[] { user.Email }, "Confirmation E-mail - FURBY", bodyEmail, null);
                     await _emailSender.SendEmailAsync(message);
-                    Created("GetUser", userToReturn);
-                    return Ok("Registrado com sucesso, por favor confirme o e-mail que enviamos para você ;)");
+                    return Ok("Successfully registered, please confirm the email we sent you. ;)");
                 }
 
                 return BadRequest(result.Errors);
@@ -146,7 +145,8 @@ namespace Project.WebAPI.Controllers
                     return Ok(new
                     {
                         token = GenerateJWToken(appUser).Result,
-                        user = userToReturn
+                        user = userToReturn,
+                        userId = user.Id
                     });
                 }
 

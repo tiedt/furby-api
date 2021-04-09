@@ -4,8 +4,7 @@ namespace Project.WebAPI.Dtos
 {
     public class EmployeeDto
     {
-        [Required(ErrorMessage = "Required Field")]
-        public int Id { get; set; }
+        public int? Id { get; set; }
 
         [Required(ErrorMessage = "Required field")]
         [StringLength(100, MinimumLength = 4, ErrorMessage = "Employee Name must contain a minimum of 4 characters and a maximum of 100 characters")]

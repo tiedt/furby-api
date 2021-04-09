@@ -4,7 +4,6 @@ using System.IO;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
@@ -24,7 +23,6 @@ using Project.EmailService;
 using Project.EmailService.CustomTokenProviders;
 using Project.Repository;
 using Project.Respository;
-using Swashbuckle.AspNetCore.Filters;
 
 namespace Project.WebAPI
 {
@@ -115,6 +113,9 @@ namespace Project.WebAPI
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "FURBY", Version = "v1" });
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                c.IncludeXmlComments(xmlPath);
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
                     Description = @"JWT Authorization header using the Bearer scheme.
@@ -225,10 +226,12 @@ namespace Project.WebAPI
                 //Here you could create the super admin who will maintain the web app
                 var poweruser = new User
                 {
-                    UserName = "luciana",
+                    UserName = "lpa",
                     Email = "lpa@furb.br",
                     EmailConfirmed = true,
-                    isAdmin = true
+                    isAdmin = true,
+                    FullName = "Luciana Pereira de Araújo Kohler"
+
                 };
                 string adminPassword = "123456";
 

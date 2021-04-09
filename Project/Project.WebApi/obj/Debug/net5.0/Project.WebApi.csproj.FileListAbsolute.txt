@@ -16,6 +16,9 @@ C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
@@ -35,6 +38,7 @@ C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -70,6 +74,7 @@ C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
@@ -173,8 +178,5 @@ C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\ref\Project.WebApi.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.pdb
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.genruntimeconfig.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.xml
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.xml

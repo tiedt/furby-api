@@ -23,7 +23,6 @@ namespace Project.Repository
 
 
         Task<User[]> GetAllUsersAsync();
-        Task<User> GetUserAsyncById(int userId);
         Task<User> GetUserByEmail(string email);
         Task<User> GetUserByUserName(string username);
 

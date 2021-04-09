@@ -10,6 +10,5 @@ namespace Project.Domain.Identity
         public string FullName { get; set; }
         public List<UserRole> UserRoles { get; set; }
         public bool isAdmin { get; set; }
-        public Employee Employees { get; set; }
     }
 }

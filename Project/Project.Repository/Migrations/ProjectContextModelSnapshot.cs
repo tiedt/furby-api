@@ -182,9 +182,6 @@ namespace Project.Repository.Migrations
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
 
-                    b.Property<int?>("EmployeesId")
-                        .HasColumnType("int");
-
                     b.Property<string>("FullName")
                         .HasColumnType("nvarchar(150)");
 
@@ -225,8 +222,6 @@ namespace Project.Repository.Migrations
                         .HasColumnType("bit");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("EmployeesId");
 
                     b.HasIndex("NormalizedEmail")
                         .HasDatabaseName("EmailIndex");
@@ -288,15 +283,6 @@ namespace Project.Repository.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("Project.Domain.Identity.User", b =>
-                {
-                    b.HasOne("Project.Domain.Employee", "Employees")
-                        .WithMany()
-                        .HasForeignKey("EmployeesId");
-
-                    b.Navigation("Employees");
                 });
 
             modelBuilder.Entity("Project.Domain.Identity.UserRole", b =>

@@ -1,0 +1,381 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "FURBY",
+    "version": "v1"
+  },
+  "paths": {
+    "/admin/GetAllUserAdmin": {
+      "get": {
+        "tags": [
+          "Admin"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/admin/AddNewAdmin": {
+      "post": {
+        "tags": [
+          "Admin"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "userEmail",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/admin/DeleteAdmin": {
+      "delete": {
+        "tags": [
+          "Admin"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "adminEmail",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/employee/GetEmployee": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/employee/GetAllEmployeeByUserId/{userId}": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "userId",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/employee/{EmployeeId}": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "EmployeeId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Employee"
+        ],
+        "consumes": [
+          "application/json-patch+json",
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "EmployeeId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/EmployeeDto"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "EmployeeId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/employee": {
+      "post": {
+        "tags": [
+          "Employee"
+        ],
+        "consumes": [
+          "application/json-patch+json",
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/EmployeeDto"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/user/GetAllUser": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/user/ForgotPassword": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "consumes": [
+          "application/json-patch+json",
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/ForgotPasswordModel"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/user/Register": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "consumes": [
+          "application/json-patch+json",
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/UserDto"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/user/Login": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "consumes": [
+          "application/json-patch+json",
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/UserLoginDto"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "EmployeeDto": {
+      "required": [
+        "employee_Age",
+        "employee_Name",
+        "employee_Salary",
+        "id",
+        "userId"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "employee_Name": {
+          "maxLength": 100,
+          "minLength": 4,
+          "type": "string"
+        },
+        "employee_Salary": {
+          "format": "int32",
+          "maximum": 2147483647,
+          "minimum": 0,
+          "type": "integer"
+        },
+        "employee_Age": {
+          "maximum": 120,
+          "minimum": 0,
+          "type": "string"
+        },
+        "profile_Image": {
+          "type": "string"
+        },
+        "userId": {
+          "maxLength": 2147483647,
+          "minLength": 1,
+          "type": "string"
+        }
+      }
+    },
+    "ForgotPasswordModel": {
+      "required": [
+        "email"
+      ],
+      "type": "object",
+      "properties": {
+        "email": {
+          "format": "email",
+          "type": "string"
+        }
+      }
+    },
+    "UserDto": {
+      "type": "object",
+      "properties": {
+        "userName": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        },
+        "phoneNumber": {
+          "type": "string"
+        },
+        "fullName": {
+          "type": "string"
+        }
+      }
+    },
+    "UserLoginDto": {
+      "type": "object",
+      "properties": {
+        "userName": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "securityDefinitions": {
+    "Bearer": {
+      "type": "apiKey",
+      "name": "Authorization",
+      "in": "header",
+      "description": "JWT Authorization header using the Bearer scheme.\r\n                      Enter 'Bearer' [space] and then your token in the text input below.\r\n                      Example: 'Bearer 12345abcdef'"
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}

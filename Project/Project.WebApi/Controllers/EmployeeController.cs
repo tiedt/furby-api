@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Project.Domain;
 using Project.Repository;
+using Project.WebApi.Dtos;
 using Project.WebAPI.Dtos;
 using System.Threading.Tasks;
 
@@ -24,7 +25,8 @@ namespace Project.WebAPI.Controllers
         }
 
         [HttpGet]
-        [Route("GetEmployee")]
+        [Route("GetEmployees")]
+        [Authorize(Roles = "Administrator")]
         public async Task<IActionResult> GetEmployee()
         {
             try
@@ -41,7 +43,7 @@ namespace Project.WebAPI.Controllers
         }
 
         [HttpGet]
-        [Route("GetAllEmployeeByUserId/{userId}")]
+        [Route("GetAllEmployeesByUserId/{userId}")]
         public async Task<IActionResult> GetAllEmployeeByUserId(string userId)
         {
             try
@@ -74,7 +76,25 @@ namespace Project.WebAPI.Controllers
             }
         }
 
-        // POST api/values
+        // POST
+        /// <summary>
+        /// Create a new Employee.
+        /// </summary>
+        /// <remarks>
+        /// Example:
+        ///
+        ///     POST /Employee
+        ///     {
+        ///        "employee_Name": "Darth Vader",
+        ///        "employee_Salary": 2500,
+        ///        "employee_Age": "59",
+        ///        "profile_Image": "",
+        ///        "userId": "youUserID"
+        ///     }
+        ///     
+        ///
+        /// </remarks>
+      
         [HttpPost]
         public async Task<IActionResult> Post(EmployeeDto model)
         {
@@ -86,7 +106,7 @@ namespace Project.WebAPI.Controllers
 
                 if (await _repo.SaveChangesAsync())
                 {
-                    return Created($"/api/evento/{model.Id}", _mapper.Map<EmployeeDto>(evento));
+                    return Created($"/api/evento/{model.UserId}", _mapper.Map<EmployeeDto>(evento));
                 }
             }
             catch (System.Exception ex)
@@ -98,33 +118,44 @@ namespace Project.WebAPI.Controllers
             return BadRequest();
         }
 
+        // PUT
+        /// <summary>
+        /// Put a Employee.
+        /// To find out what is the Id, user the GetAllEmployeesByUserId controller, then it will list all your employees
+        /// </summary>
+        /// <remarks>
+        /// Example:
+        ///
+        ///     PUT /Employee
+        ///     {
+        ///        "Id": "8",
+        ///        "employee_Name": "Darth Vader",
+        ///        "employee_Salary": 2500,
+        ///        "employee_Age": "59",
+        ///        "profile_Image": "",
+        ///        "userId": "youUserID"
+        ///     }
+        ///     
+        ///
+        /// </remarks>
+
+
         [HttpPut]
-        [Route("{EmployeeId}")]
-        public async Task<IActionResult> Put(int EmployeeId, EmployeeDto model)
+        public async Task<IActionResult> Put(EmployeeDto model)
         {
             try
             {
-                var Employee = await _repo.GetEmployeeAsyncById(EmployeeId);
+                if (!model.Id.HasValue) return BadRequest("Please insert the Id in Json, to place the Put");
+                var Employee = await _repo.GetEmployeeAsyncById(model.Id.Value);
                 if (Employee == null) return NotFound();
-                //if (model.Endereco != null)
-                //{
-                //    var idEndereco = new List<int>();
 
-                //    model.Endereco.ForEach(item => idEndereco.Add(item.EnderecoId));
-
-                //    var Employees = Employee.Endereco.Where(
-                //        endereco => !idEndereco.Contains(endereco.EnderecoId)
-                //    ).ToArray();
-
-                //    if (Employees.Length > 0) _repo.DeleteRange(Employees);
-                //}
                 _mapper.Map(model, Employee);
 
                 _repo.Update(Employee);
 
                 if (await _repo.SaveChangesAsync())
                 {
-                    return Created($"/api/Employee/{model.Id}", _mapper.Map<EmployeeDto>(Employee));
+                    return Created($"/api/Employee/{model.Id.Value}", _mapper.Map<EmployeeDto>(Employee));
                 }
             }
             catch (System.Exception ex)

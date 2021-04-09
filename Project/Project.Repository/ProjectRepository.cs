@@ -43,14 +43,6 @@ namespace Project.Repository
             query = query.AsNoTracking().OrderBy(c => c.Id);
             return await query.ToArrayAsync();
         }
-         public async Task<User> GetUserAsyncById(int userId)
-        {
-            IQueryable<User> query = _context.Users
-            .Include(c => c.Employees);
-            query = query.AsNoTracking().OrderBy(c => c.Id)
-            .Where(c => c.Id == userId);
-            return await query.FirstOrDefaultAsync();
-        }
         public async Task<Employee[]> GetAllEmployeeAsync()
         {
             IQueryable<Employee> query = _context.Employees;
