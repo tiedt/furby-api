@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj": {}
+    "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj": {
+    "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj",
+        "projectUniqueName": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj",
         "projectName": "Project.EmailService",
-        "projectPath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj",
+        "projectPath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\identity-aspnetcore\\Project\\Project.EmailService\\Project.EmailService.csproj",
         "packagesPath": "C:\\Users\\TIEDT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.EmailService\\obj\\",
+        "outputPath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\identity-aspnetcore\\Project\\Project.EmailService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

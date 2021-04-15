@@ -25,7 +25,7 @@
         "parameters": [
           {
             "in": "query",
-            "name": "userEmail",
+            "name": "username",
             "type": "string"
           }
         ],
@@ -44,7 +44,7 @@
         "parameters": [
           {
             "in": "query",
-            "name": "adminEmail",
+            "name": "username",
             "type": "string"
           }
         ],
@@ -55,7 +55,7 @@
         }
       }
     },
-    "/employee/GetEmployee": {
+    "/employee/GetEmployees": {
       "get": {
         "tags": [
           "Employee"
@@ -67,7 +67,7 @@
         }
       }
     },
-    "/employee/GetAllEmployeeByUserId/{userId}": {
+    "/employee/GetAllEmployeesByUserId/{userId}": {
       "get": {
         "tags": [
           "Employee"
@@ -107,38 +107,6 @@
           }
         }
       },
-      "put": {
-        "tags": [
-          "Employee"
-        ],
-        "consumes": [
-          "application/json-patch+json",
-          "application/json",
-          "text/json",
-          "application/*+json"
-        ],
-        "parameters": [
-          {
-            "in": "path",
-            "name": "EmployeeId",
-            "required": true,
-            "type": "integer",
-            "format": "int32"
-          },
-          {
-            "in": "body",
-            "name": "body",
-            "schema": {
-              "$ref": "#/definitions/EmployeeDto"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      },
       "delete": {
         "tags": [
           "Employee"
@@ -164,6 +132,35 @@
         "tags": [
           "Employee"
         ],
+        "summary": "Create a new Employee.",
+        "description": "Example:\r\n            \r\n    POST /Employee\r\n    {\r\n       \"employee_Name\": \"Darth Vader\",\r\n       \"employee_Salary\": 2500,\r\n       \"employee_Age\": \"59\",\r\n       \"profile_Image\": \"\",\r\n       \"userId\": \"youUserID\"\r\n    }",
+        "consumes": [
+          "application/json-patch+json",
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/EmployeeDto"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Employee"
+        ],
+        "summary": "Put a Employee.\r\nTo find out what is the Id, user the GetAllEmployeesByUserId controller, then it will list all your employees",
+        "description": "Example:\r\n            \r\n    PUT /Employee\r\n    {\r\n       \"Id\": \"8\",\r\n       \"employee_Name\": \"Darth Vader\",\r\n       \"employee_Salary\": 2500,\r\n       \"employee_Age\": \"59\",\r\n       \"profile_Image\": \"\",\r\n       \"userId\": \"youUserID\"\r\n    }",
         "consumes": [
           "application/json-patch+json",
           "application/json",
@@ -286,7 +283,6 @@
         "employee_Age",
         "employee_Name",
         "employee_Salary",
-        "id",
         "userId"
       ],
       "type": "object",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ULzyzNxs2GthZVIvvXY+NCcdaAX8p0g0TuRjDv2pIVeDHfsfPIxL3AUzBsXBuAwJnjg6I8xluWmSfWIFJnsdQ==",
+  "dgSpecHash": "7BVJImPouWECm9f06Y1Z62ID5wBr8iqoEnKUt9HB7zESJcQYVc/ckTgf3alwEpWymT5kxy65v5wUe3hdIK726Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Domain\\Project.Domain.csproj",
+  "projectFilePath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Domain\\Project.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TIEDT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
     "C:\\Users\\TIEDT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.5\\microsoft.aspnetcore.cryptography.keyderivation.5.0.5.nupkg.sha512",

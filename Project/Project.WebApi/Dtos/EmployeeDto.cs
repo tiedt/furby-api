@@ -17,11 +17,5 @@ namespace Project.WebAPI.Dtos
         [Required(ErrorMessage = "Required field")]
         [Range(0, 120, ErrorMessage = "Employee_Age cannot live more than 120 years xD")]
         public string Employee_Age { get; set; }
-
-        public string Profile_Image { get; set; }
-
-        [Required(ErrorMessage = "Required Field")]
-        [StringLength(int.MaxValue,MinimumLength = 1, ErrorMessage = "Please enter your User Id")]
-        public string UserId { get; set; }
     }
 }

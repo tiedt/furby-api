@@ -178,3 +178,5 @@ C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Relea
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\ref\Project.WebApi.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\Project.WebApi.pdb
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\Project.WebApi.genruntimeconfig.cache
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Release\net5.0\Project.WebApi.xml
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\Project.WebApi.xml

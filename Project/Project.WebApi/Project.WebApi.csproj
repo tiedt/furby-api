@@ -37,7 +37,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Project.Domain\Project.Domain.csproj" />
-    <ProjectReference Include="..\Project.EmailService\Project.EmailService.csproj" />
     <ProjectReference Include="..\Project.Repository\Project.Repository.csproj" />
   </ItemGroup>
 

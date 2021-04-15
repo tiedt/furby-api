@@ -176,6 +176,7 @@ C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Relea
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\PubTmp\Out\Project.Domain.pdb
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\PubTmp\Out\Project.EmailService.pdb
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\PubTmp\Out\Project.Repository.pdb
+C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\PubTmp\Out\Project.WebApi.xml
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\PubTmp\Out\Project.WebApi.Views.dll
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\PubTmp\Out\Project.WebApi.Views.pdb
 C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Release\net5.0\PubTmp\Out\Project.WebApi.deps.json

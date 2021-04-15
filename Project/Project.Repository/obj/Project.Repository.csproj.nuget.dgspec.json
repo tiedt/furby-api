@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Repository\\Project.Repository.csproj": {}
+    "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Repository\\Project.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Domain\\Project.Domain.csproj": {
+    "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Domain\\Project.Domain.csproj",
+        "projectPath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\TIEDT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Domain\\obj\\",
+        "outputPath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Repository\\Project.Repository.csproj": {
+    "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Repository\\Project.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Repository\\Project.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Repository\\Project.Repository.csproj",
         "projectName": "Project.Repository",
-        "projectPath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Repository\\Project.Repository.csproj",
+        "projectPath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Repository\\Project.Repository.csproj",
         "packagesPath": "C:\\Users\\TIEDT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Repository\\obj\\",
+        "outputPath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -98,8 +98,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Domain\\Project.Domain.csproj": {
-                "projectPath": "C:\\Users\\TIEDT\\Desktop\\furb\\identity-aspnetcore\\Project\\Project.Domain\\Project.Domain.csproj"
+              "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Domain\\Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\TIEDT\\Desktop\\sistemas distribuidos\\trabalho01\\backend\\Project\\Project.Domain\\Project.Domain.csproj"
               }
             }
           }

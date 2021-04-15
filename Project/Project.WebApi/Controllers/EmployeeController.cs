@@ -1,10 +1,8 @@
 ﻿using AutoMapper;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Project.Domain;
 using Project.Repository;
-using Project.WebApi.Dtos;
 using Project.WebAPI.Dtos;
 using System.Threading.Tasks;
 
@@ -24,9 +22,7 @@ namespace Project.WebAPI.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
-        [Route("GetEmployees")]
-        [Authorize(Roles = "Administrator")]
+        [HttpGet("GetEmployees")]
         public async Task<IActionResult> GetEmployee()
         {
             try
@@ -42,25 +38,7 @@ namespace Project.WebAPI.Controllers
             }
         }
 
-        [HttpGet]
-        [Route("GetAllEmployeesByUserId/{userId}")]
-        public async Task<IActionResult> GetAllEmployeeByUserId(string userId)
-        {
-            try
-            {
-                var users = await _repo.GetAllEmployeeAsync(userId);
-                var results = _mapper.Map<EmployeeDto[]>(users);
-
-                return Ok(results);
-            }
-            catch (System.Exception ex)
-            {
-                return this.StatusCode(StatusCodes.Status500InternalServerError, $"Banco Dados Falhou {ex.Message}");
-            }
-        }
-
-        [HttpGet]
-        [Route("{EmployeeId}")]
+        [HttpGet("{EmployeeId}")]
         public async Task<IActionResult> Get(int EmployeeId)
         {
             try
@@ -106,7 +84,7 @@ namespace Project.WebAPI.Controllers
 
                 if (await _repo.SaveChangesAsync())
                 {
-                    return Created($"/api/evento/{model.UserId}", _mapper.Map<EmployeeDto>(evento));
+                    return Created($"/api/evento/", _mapper.Map<EmployeeDto>(evento));
                 }
             }
             catch (System.Exception ex)
@@ -166,8 +144,7 @@ namespace Project.WebAPI.Controllers
             return BadRequest();
         }
 
-        [HttpDelete]
-        [Route("{EmployeeId}")]
+        [HttpDelete("{EmployeeId}")]
         public async Task<IActionResult> Delete(int EmployeeId)
         {
             try

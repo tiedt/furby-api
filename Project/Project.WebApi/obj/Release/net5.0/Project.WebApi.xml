@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Project.WebAPI.Controllers.EmployeeController.Post(Project.WebAPI.Dtos.EmployeeDto)">
+             <summary>
+             Create a new Employee.
+             </summary>
+             <remarks>
+             Example:
+            
+                 POST /Employee
+                 {
+                    "employee_Name": "Darth Vader",
+                    "employee_Salary": 2500,
+                    "employee_Age": "59",
+                    "profile_Image": "",
+                    "userId": "youUserID"
+                 }
+                 
+            
+             </remarks>
+        </member>
+        <member name="M:Project.WebAPI.Controllers.EmployeeController.Put(Project.WebAPI.Dtos.EmployeeDto)">
+             <summary>
+             Put a Employee.
+             To find out what is the Id, user the GetAllEmployeesByUserId controller, then it will list all your employees
+             </summary>
+             <remarks>
+             Example:
+            
+                 PUT /Employee
+                 {
+                    "Id": "8",
+                    "employee_Name": "Darth Vader",
+                    "employee_Salary": 2500,
+                    "employee_Age": "59",
+                    "profile_Image": "",
+                    "userId": "youUserID"
+                 }
+                 
+            
+             </remarks>
+        </member>
+    </members>
+</doc>
