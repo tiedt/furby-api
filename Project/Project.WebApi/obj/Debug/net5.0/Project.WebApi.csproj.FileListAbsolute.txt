@@ -1,502 +1,218 @@
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\appsettings.json
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.exe
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.deps.json
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.json
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.dev.json
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ref\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Humanizer.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\MailKit.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\MimeKit.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\NETCore.MailKit.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Scrutor.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.EmailService.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.EmailService.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csprojAssemblyReference.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfoInputs.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfo.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorAssemblyInfo.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorAssemblyInfo.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.Manifest.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.xml
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\scopedcss\bundle\Project.WebApi.styles.css
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.TagHelpers.input.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.TagHelpers.output.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorCoreGenerate.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cs
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.Views.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CopyComplete
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\ref\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.pdb
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.genruntimeconfig.cache
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.xml
-C:\Users\TIEDT\Desktop\furb\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.xml
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csprojAssemblyReference.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfoInputs.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfo.cs
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\ref\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.xml
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\appsettings.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.exe
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.deps.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.dev.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ref\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.xml
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Humanizer.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\MailKit.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\MimeKit.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\NETCore.MailKit.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Scrutor.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.Manifest.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.xml
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\scopedcss\bundle\Project.WebApi.styles.css
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CopyComplete
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\identity-aspnetcore\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.genruntimeconfig.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\appsettings.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.exe
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.deps.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.dev.json
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ref\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.xml
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Humanizer.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\MailKit.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\MimeKit.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\NETCore.MailKit.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Scrutor.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csprojAssemblyReference.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfoInputs.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfo.cs
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.Manifest.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.xml
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\scopedcss\bundle\Project.WebApi.styles.css
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cache
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CopyComplete
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\ref\Project.WebApi.dll
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.xml
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.pdb
-C:\Users\TIEDT\Desktop\sistemas distribuidos\trabalho01\backend\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.genruntimeconfig.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csprojAssemblyReference.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfoInputs.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorAssemblyInfo.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorAssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.xml
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\scopedcss\bundle\Project.WebApi.styles.css
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.TagHelpers.input.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.TagHelpers.output.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorCoreGenerate.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\ref\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.exe
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.deps.json
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.json
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.dev.json
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\ref\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Scrutor.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.Domain.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.EmailSender.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.Repository.dll
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.Domain.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.EmailSender.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\bin\Debug\net5.0\Project.Repository.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.Views.pdb
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CopyComplete
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Project.WebApi.genruntimeconfig.cache
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\project-final\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.exe
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.deps.json
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.json
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.runtimeconfig.dev.json
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\ref\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.WebApi.Views.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Scrutor.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.EmailSender.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.Domain.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.EmailSender.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\bin\Debug\net5.0\Project.Repository.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.AssemblyReference.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfoInputs.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.AssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorAssemblyInfo.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorAssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\staticwebassets\Project.WebApi.StaticWebAssets.xml
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\scopedcss\bundle\Project.WebApi.styles.css
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.TagHelpers.input.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.TagHelpers.output.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorCoreGenerate.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.Views.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.csproj.CopyComplete
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\ref\Project.WebApi.dll
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.pdb
+C:\Users\TIEDT\Desktop\furb\furby\furby-api\Project\Project.WebApi\obj\Debug\net5.0\Project.WebApi.genruntimeconfig.cache

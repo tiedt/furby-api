@@ -1,5 +1,6 @@
 using System.Threading.Tasks;
 using Project.Domain;
+using Project.Domain.Identity;
 
 namespace Project.Repository
 {
@@ -11,7 +12,19 @@ namespace Project.Repository
         void DeleteRange<T>(T[] entity) where T : class;
         Task<bool> SaveChangesAsync();
 
+
+        Task<Role[]> GetAllRoles();
+        Task<UserRole[]> GetAllUserRole();
+        Task<UserRole> GetUserRoleByUserId(int Id);
+        Task<UserRole> GetUserRoleByRoleId(int Id);
+        Task<User[]> GetAllUserAdmin();
+
+        Task<User[]> GetAllUsersAsync();
+        Task<User> GetUserAsyncById(int userId);
+        Task<User> GetEmailUserAsync(string email);
+
         Task<Employee[]> GetAllEmployeeAsync();
+        Task<Employee[]> GetAllEmployeeAsync(string userId);
         Task<Employee> GetEmployeeAsyncById(int employeeId);
     }
 }

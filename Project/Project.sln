@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.WebApi", "Project.W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Domain", "Project.Domain\Project.Domain.csproj", "{0D176233-51AD-4743-95EA-0A998BE58570}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Repository", "Project.Repository\Project.Repository.csproj", "{7014D74B-9FF5-411D-AE5F-163FDEE783C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.EmailSender", "Project.EmailSender\Project.EmailSender.csproj", "{7014D74B-9FF5-411D-AE5F-163FDEE783C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Repository", "Project.Repository\Project.Repository.csproj", "{11078009-1D67-4A80-895D-9CD6ABC6787F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7014D74B-9FF5-411D-AE5F-163FDEE783C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7014D74B-9FF5-411D-AE5F-163FDEE783C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7014D74B-9FF5-411D-AE5F-163FDEE783C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11078009-1D67-4A80-895D-9CD6ABC6787F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11078009-1D67-4A80-895D-9CD6ABC6787F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11078009-1D67-4A80-895D-9CD6ABC6787F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11078009-1D67-4A80-895D-9CD6ABC6787F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
